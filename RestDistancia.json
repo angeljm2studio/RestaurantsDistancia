@@ -1,9 +1,10 @@
 [
     {
+       
         "name": "Mofongo Mi Terraza ",
         "title": "Disfruta de nuestros Mofongo  con una tremenda compañía",
-        "latitude": 19.3927018,
-        "longitude": -70.627531,
+        "latitude":  19.382991435405277,
+        "longitude": -70.51458446286425,
         "address": "Av Cnel. LORA FERNANDEZ, Moca 56000",
         "location":"Moca Av LORA FERNANDEZ, Centro Español",
         "description":"Les invitamos cordialmente a conocer nuestro Restaurant y nuestros exquisitos platos, los cuales estan respaldados por un equipo de profesionales con experiencia en todo lo referente a gastronomia.",
@@ -15,11 +16,10 @@
         ]
     },
     {
-   
         "name": "Bujar Restaurant and Bakery",
         "title": "Disfruta de nuestros Mofongo  con una tremenda compañía",
-        "latitude": 19.3866387,
-        "longitude": -70.5312395,
+        "latitude": 19.386646990991206,
+        "longitude": -70.53123923658397,
         "address": "Autopista Ramón Cáceres, Moca 56000",
         "location":"Moca, Autopista Ramón Cáceres",
         "description":"Les invitamos cordialmente a conocer nuestro Restaurant y nuestros exquisitos platos, los cuales estan respaldados por un equipo de profesionales con experiencia en todo lo referente a gastronomia.",
@@ -31,11 +31,11 @@
         ]
     },
     {
-        
+       
         "name": "Table One Costambar",
         "title": "Eat at the Chef's house ",
-        "latitude":  19.809025,
-        "longitude": -70.7181898,
+        "latitude":   19.809026485272575,
+        "longitude": -70.71381296781634,
         "address": "calle Este 6, Puerto Plata 57000",
         "location":"Puerto Plata 57000",
         "description":"Disfruta de nuestros Restaurant y nuestros exquisitos platos, los cuales estan respaldados por un equipo de profesionales con experiencia en todo lo referente a gastronomia.",

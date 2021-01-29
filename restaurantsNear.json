@@ -1,0 +1,66 @@
+[
+    {
+       
+        "name": "Zion Cafè ",
+        "title": "Disfruta de nuestros cafe  con una tremenda sabor",
+        "latitude":  42.71513314745139,
+        "longitude": -71.1769151701223,
+        "address": "530 Broadway, Lawrence, MA 01841, United States",
+        "location":"Lawrence, MA 01841",
+        "description":"Zion Cafè.. El mejor ambiente y el mejor savor y una gran variedad de sandwiches criollos, ensaladas,Wraps, Alitas de pollo con papas y otros aperitivos de la cocina criolla.",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2016/07/23/03/56/love-1536226_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/06/08/14/54/coffee-801781_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/22/06/32/girl-1848478_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/05/25/10/43/hamburger-1414422_960_720.jpg"
+        ]
+    },
+    {
+        "name": "sunnyside diner",
+        "title": "Todos los platos están elaborados con productos de origen vegetal y no contienen carne, huevos ni lácteos.",
+        "latitude": 42.717447445430444,
+        "longitude": -71.17829655930386,
+        "address": "639 Broadway, Lawrence, MA 01841, United States",
+        "location":"639 Broadway, Lawrence, MA 01841",
+        "description":"Les invitamos cordialmente a conocer nuestro Restaurant y nuestros exquisitos platos, los cuales estan respaldados por un equipo de profesionales con experiencia en todo lo referente a gastronomia.",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2020/08/31/12/15/meal-5532302_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg"
+        ]
+    },
+    {
+        "name": "Japu Restaurant",
+        "title": "Encontrarás un menú completo que incluye diferentes ingredientes y técnicas. ",
+        "latitude":  42.70604788473282,
+        "longitude": -71.15353979714423,
+        "address": "4 Union St, Lawrence, MA 01840, United States",
+        "location":"4 Union St, Lawrence, MA 01840,",
+        "description":"¡Somos un restaurante familiar! Nuestro personal atento y comprometido se asegurará de que tenga una experiencia fantástica con nosotros, en todo momento.",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2017/11/03/19/58/nikkei-sushi-2915501_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/03/05/20/07/salmon-1238667_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/05/26/14/53/sushi-354628_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg"
+        ]
+    },
+    {
+        
+        "name": "CocoRay's",
+        "title": "Lawrence's best Mexican + Puerto rican fusion ",
+        "latitude":  42.69504739125957,
+        "longitude": -71.15791891796472,
+        "address": "197 Parker St, Lawrence, MA 01843, United States",
+        "location":" Lawrence, MA 01843",
+        "description":"Welcome to CocoRay's! We have come a long way from starting out with a food truck to being a participant of the Revolving Test Kitchen, to now opening our doors the week of May 21st, 2018!",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2014/06/21/02/29/sushi-373588_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/03/05/23/02/barbecue-1239434_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/05/26/14/53/sushi-354628_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg"
+        ]
+    }
+
+    
+]
