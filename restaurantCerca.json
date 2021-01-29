@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Restaurante La Barca ",
+        "title": "Fog Harbor Fish House",
+        "latitude": 19.4240098,
+        "longitude": -70.6674452,
+        "address": "Restaurante La Barca - Centro Español, Santiago De Los Caballeros 51000",
+        "photos": [
+            "http://www.laparcelacr.com/wp-content/uploads/2014/11/platos-fuertes-menu.jpg",
+            "https://cdn.pixabay.com/photo/2016/09/13/00/51/dish-1666183_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032_960_720.jpg"
+        ]
+    },
+    {
+        "name": "Almandros Ecology Restaurant ",
+        "title": "Sorprende a tus invitados con nuestros platos exquisitos",
+        "latitude": 19.4439536,
+        "longitude": -70.665908,
+        "address": "Calle Jiménez Vidal # 7, Embrujo I, 51000",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2016/02/19/11/30/shrimp-1209744_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2017/04/05/22/43/rice-2206668_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/02/17/21/45/salad-1206018_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032_960_720.jpg"
+        ]
+    }, 
+
+    {
+        "name": "Gordo Prieto Ribs And Beer ",
+        "title": "Fog Harbor Fish House",
+        "latitude": 19.4444877,
+        "longitude": -70.6696096,
+        "address": "Calle 16, Santiago De Los Caballeros, Santiago, 51000",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2010/12/13/10/25/canape-2802_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/03/05/20/02/sandwich-1238615_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/04/07/05/25/gummibarchen-318362_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032_960_720.jpg"
+        ]
+    },
+    {
+        "name": "Pizzeria La Antillana ",
+        "title": "Sorprende a tus invitados con nuestros platos exquisitos",
+        "latitude": 19.4390807,
+        "longitude": -70.6673992,
+        "address": "KM 3½, 1, Santiago De Los Caballeros 51033",
+        "photos": [
+            "https://images.pexels.com/photos/842519/pexels-photo-842519.jpeg",
+            "https://images.pexels.com/photos/2762942/pexels-photo-2762942.jpeg",
+            "https://images.pexels.com/photos/3915857/pexels-photo-3915857.jpeg",
+            "https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032_960_720.jpg"
+        ]
+    },
+    {
+        "name": "Restaurante La Parrillita ",
+        "title": "Sorprende a tus invitados con nuestros platos exquisitos",
+        "latitude":   19.4504191,
+        "longitude": -70.6537436,
+        "address": "Carretera Duarte KM2, Bomba Texaco Plaza Amira, Santiago De Los Caballeros 51000",
+        "photos": [
+            "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg",
+            "https://cdn.pixabay.com/photo/2014/01/24/04/05/fried-chicken-250863_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2017/02/23/15/29/oriental-2092468_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/10/22/18/47/chicken-1001754_960_720.jpg"
+        ]
+    },
+    {
+        "name": "La Locanda Santiago Restaurante ",
+        "title": "Sorprende a tus invitados con nuestros platos exquisitos",
+        "latitude":   19.4622934,
+        "longitude": -70.688512,
+        "address": "Calle, República del Libano B3, Santiago De Los Caballeros 51000",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2017/05/24/21/40/food-2341676_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/03/05/19/02/salmon-1238248_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/10/22/18/47/chicken-1001754_960_720.jpg"
+        ]
+    },
+    
+    {
+        "name": "Puerta del Sol ",
+        "title": "Sorprende a tus invitados con nuestros platos exquisitos",
+        "latitude":   19.4191496,
+        "longitude": -70.6585892,
+        "address": "Calle el Sol, Esq. Daniel Espinal No. 23",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2017/05/24/21/40/food-2341676_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/03/05/19/02/salmon-1238248_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/10/22/18/47/chicken-1001754_960_720.jpg"
+        ]
+    }
+
+
+
+    
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Mofongo Mi Terraza ",
+        "title": "Disfruta de nuestros Mofongo  con una tremenda compañía",
+        "latitude": 19.3927018,
+        "longitude": -70.627531,
+        "address": "Av Cnel. LORA FERNANDEZ, Moca 56000",
+        "location":"Moca Av LORA FERNANDEZ, Centro Español",
+        "description":"Les invitamos cordialmente a conocer nuestro Restaurant y nuestros exquisitos platos, los cuales estan respaldados por un equipo de profesionales con experiencia en todo lo referente a gastronomia.",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2021/01/03/09/04/food-5883821_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/07/31/01/59/asparagus-868584_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2017/11/13/19/08/meatballs-2946482_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/05/25/10/43/hamburger-1414422_960_720.jpg"
+        ]
+    },
+    {
+   
+        "name": "Bujar Restaurant and Bakery",
+        "title": "Disfruta de nuestros Mofongo  con una tremenda compañía",
+        "latitude": 19.3866387,
+        "longitude": -70.5312395,
+        "address": "Autopista Ramón Cáceres, Moca 56000",
+        "location":"Moca, Autopista Ramón Cáceres",
+        "description":"Les invitamos cordialmente a conocer nuestro Restaurant y nuestros exquisitos platos, los cuales estan respaldados por un equipo de profesionales con experiencia en todo lo referente a gastronomia.",
+        "photos": [
+            "http://www.laparcelacr.com/wp-content/uploads/2014/11/platos-fuertes-menu.jpg",
+            "https://cdn.pixabay.com/photo/2018/12/21/22/04/salmon-3888828_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg"
+        ]
+    },
+    {
+        
+        "name": "Table One Costambar",
+        "title": "Eat at the Chef's house ",
+        "latitude":  19.809025,
+        "longitude": -70.7181898,
+        "address": "calle Este 6, Puerto Plata 57000",
+        "location":"Puerto Plata 57000",
+        "description":"Disfruta de nuestros Restaurant y nuestros exquisitos platos, los cuales estan respaldados por un equipo de profesionales con experiencia en todo lo referente a gastronomia.",
+        "photos": [
+            "https://tableone-puertoplata.com/_files/200000711-54a2855a4f/700/20190202_091735.jpg",
+            "https://cdn.pixabay.com/photo/2018/12/21/22/04/salmon-3888828_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg"
+        ]
+    }
+
+    
+]
